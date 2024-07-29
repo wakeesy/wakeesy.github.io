@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ke Wang, a student majoring in computer science and technology at Yunnan University. During my undergraduate studies, I excelled in my studies and was ranked in the top of my specialty in terms of grades and overall assessment. Additionally, I am proficient in c++ and python, actively participated in algorithm competitions and won the national silver medal in the ACM-ICPC National Collegiate Programming Contest. I also took part in scientific research and study vigorously, and published a paper(JCR Q2, first author) in the field of remote sensing image small target detection under the guidance of my undergraduate teacher. Meanwhile, I engaged in a Zhejiang University research training program, reading papers and practicing multimodal models, and proposed improvements to the existing multimodal mobile application agent model with a single evaluation metric. In my subsequent studies and research, I also would like to do more in-depth research in computer vision and multimodal modeling.
+I'm Ke Wang, a student majoring in computer science and technology at Yunnan University. During my undergraduate studies, I excelled in my studies and was ranked in the top of my specialty in terms of grades and overall assessment. 
+
+Additionally, I am proficient in c++ and python, actively participated in algorithm competitions and won the national silver medal in the ACM-ICPC National Collegiate Programming Contest. 
+
+I also took part in scientific research and study vigorously, and published a paper(JCR Q2, first author) in the field of remote sensing image small target detection under the guidance of my undergraduate teacher. Meanwhile, I engaged in a Zhejiang University research training program, reading papers and practicing multimodal models, and proposed improvements to the existing multimodal mobile application agent model with a single evaluation metric. 
+
+In my subsequent studies and research, I also would like to do more in-depth research in computer vision and multimodal modeling.
 
 Education
 ======
@@ -15,7 +21,13 @@ Education
 
 Publications
 ======
-[1] ***Wang K***, Zhou H, Wu H, et al. RN-YOLO: A Small Target Detection Model for Aerial Remote-Sensing Images[J]. Electronics, 2024, 13(12): 2383.  ***(JCR Q2)***
+## RN-YOLO: A Small Target Detection Model for Aerial Remote-Sensing Images
+
+Published in *Electronics* ***(JCR Q2)***
+
+***Main Work:*** Based on the challenges of remote-sensing image target detection tasks with complex backgrounds, large scale spans, and numerous small targets, we respectively improved the feature extraction network, feature fusion network, and detection head of YOLOv8 to enhance the detection precision while reducing the model parameters. In the research, I independently complete model modification experiments and paper writing.
+
+Recommended citation: ***Wang K***, Zhou H, Wu H, et al. RN-YOLO: A Small Target Detection Model for Aerial Remote-Sensing Images[J]. Electronics, 2024, 13(12): 2383.  
 
 Competitions
 ======
@@ -31,7 +43,7 @@ Competitions
 
 Research trainings
 =====
-[1] A Comprehensive Evaluation for Model Efficiency and Accuracy in Multimodal Mobile App Agent &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024.01~2024.06
+[1] A Comprehensive Evaluation for Model Efficiency and Accuracy in Multimodal Mobile App Agent &nbsp;&nbsp;&nbsp; 2024.01~2024.06
 
 ***Main Work:*** Most of the evaluation metrics for multimodal mobile application agent models only focus on the accuracy or the score of the model, but both of them have their own shortcomings. Therefore, based on the "accuracy" and "score", we proposed several different evaluation indexes for accuracy under different task types. In addition, since the current model lacks the efficiency evaluation, a new evaluation index is raised for model efficiency.
 
