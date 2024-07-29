@@ -7,13 +7,25 @@ redirect_from:
   - /about.html
 ---
 
+I'm Ke Wang, a student majoring in computer science and technology at Yunnan University. During my undergraduate studies, I excelled in my studies and was ranked in the top of my specialty in terms of grades and overall assessment. Additionally, I am proficient in c++ and python, actively participated in algorithm competitions and won the national silver medal in the ACM-ICPC National Collegiate Programming Contest. I also took part in scientific research and study vigorously, and published a paper(JCR Q2, first author) in the field of remote sensing image small target detection under the guidance of my undergraduate teacher. Meanwhile, I engaged in a Zhejiang University research training program, reading papers and practicing multimodal models, and proposed improvements to the existing multimodal mobile application agent model with a single evaluation metric. In my subsequent studies and research, I also would like to do more in-depth research in computer vision and multimodal modeling.
+
+Education
+======
+- 2021.09 - 2025.06, B.S. in Computer Science and technology, Yunnan University, Yunnan, China
 
 Publications
 ======
+[1] Wang K, Zhou H, Wu H, et al. RN-YOLO: A Small Target Detection Model for Aerial Remote-Sensing Images[J]. Electronics, 2024, 13(12): 2383.  (JCR Q2)
 
 Competitions
 ======
+[1] ACM-ICPC International Collegiate Programming Contest    national silver medal    2023.06
 
+[2] 全国大学生数学竞赛                                        省级一等奖                2023.12
+
+[3] 中国高校计算机大赛-团体程序设计天梯赛                      省级一等奖                2023.05
+
+[4] 云南省“互联网+”创新创业大赛                               省级金奖                  2023.08
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

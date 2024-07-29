@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ke Wang / HomePage"# "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Ke Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "No matter how burdensome the journey is, we just need to move with our heart."
   location         : # "ZheJiang China"
   employer         : "Yunnan University"
   uri              : # URL
