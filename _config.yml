@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ke Wang / HomePage" # "Your Name / Site Title"
+title                    : "Ke Wang (王柯) / HomePage" # "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ke Wang"
 description              : &description "personal description"
-url                      : https://wakeeys.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://wakeeys.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wakeeys/wakeeys.github.io" # "academicpages/academicpages.github.io"
 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/wakeeys"
+  github           : "wakeeys"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

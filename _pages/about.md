@@ -43,9 +43,11 @@ Competitions
 
 Research trainings
 =====
-[1] A Comprehensive Evaluation for Model Efficiency and Accuracy in Multimodal Mobile App Agent &nbsp;&nbsp;&nbsp; 2024.01~2024.06
+[1] A Comprehensive Evaluation for Model Efficiency and Accuracy in Multimodal Mobile App Agent &nbsp;&nbsp;&nbsp; Zhejiang University &nbsp;&nbsp;&nbsp; 2024.01~2024.06
 
 ***Main Work:*** Most of the evaluation metrics for multimodal mobile application agent models only focus on the accuracy or the score of the model, but both of them have their own shortcomings. Therefore, based on the "accuracy" and "score", we proposed several different evaluation indexes for accuracy under different task types. In addition, since the current model lacks the efficiency evaluation, a new evaluation index is raised for model efficiency.
+
+
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
